@@ -1992,9 +1992,18 @@ input, select, textarea {
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 1.5em;
 			}
-
+			
+			.item header p1 {
+				font-size: 1em;
+				line-height: 0.5em;
+				text-align: left;
+				padding-left: 0.75em;
+				padding-right: 0.75em;
+				margin-bottom: 2em;
+			}
+			
 /* Icons */
 
 	.icon {
