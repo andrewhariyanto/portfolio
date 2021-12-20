@@ -1998,7 +1998,7 @@ input, select, textarea {
 			.item header p1 {
 				font-size: 1em;
 				display: block;
-				width = 100%;
+				width: 100%;
 				line-height: 1em;
 				text-align: left;
 				padding-left: 0.75em;
