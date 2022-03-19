@@ -136,6 +136,10 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	p{
+		margin-bottom: 1em;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #5b5b5b;
 		font-weight: 700;
@@ -162,6 +166,7 @@ input, select, textarea {
 	h4{
 		font-size: 1.1em;
 		text-align: left;
+		margin-bottom: 0.5em;
 	}
 
 	sub {
