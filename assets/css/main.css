@@ -259,8 +259,7 @@ input, select, textarea {
 		padding-bottom: 56.25%;
 		padding-top: 150px;
 		height: 0;
-		overflow: hidden;
-		display: flex;
+		overflow: hidden;\
 	}
 
 	.video-container iframe, .video-container object, .video-container embed {
@@ -269,8 +268,7 @@ input, select, textarea {
 		left: 0;
 		width: 100%;
 		height: 100%;
-		justify-content: center;
-		align-items: center;
+		vertical-align: central;
 	}
 
 /* Row */
@@ -280,7 +278,6 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
-		align
 	}
 
 		.row > * {
