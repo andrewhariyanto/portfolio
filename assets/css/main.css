@@ -2813,7 +2813,7 @@ input, select, textarea {
 				position: relative;
 			}
 
-			#header .logo.fa-gamepad-o:before {
+			#header .logo.fa-compass-o:before {
 				left: -0.075em;
 				position: relative;
 			}
