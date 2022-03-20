@@ -2808,7 +2808,7 @@ input, select, textarea {
 				position: relative;
 			}
 
-			#header .logo.fa-hourglass-o:before {
+			#header .logo.fa-hourglass-2-o:before {
 				left: -0.075em;
 				position: relative;
 			}
